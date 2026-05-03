@@ -192,3 +192,4 @@ pyrightconfig.json
 
 data_tarea/
 tarea4.pdf
+*.npy
